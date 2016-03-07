@@ -6,7 +6,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
+<<<<<<< HEAD
     tools:openDrawer="start">
+=======
+    tools:context="com.smartbp.view.MainActivity">
+>>>>>>> Move between screens
 
     <include
         layout="@layout/app_bar_main"

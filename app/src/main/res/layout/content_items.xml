@@ -9,7 +9,11 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
+<<<<<<< HEAD
     tools:context="com.irenakamrat.smartbackpack.ItemsActivity"
+=======
+    tools:context="com.smartbp.view.ItemsActivity"
+>>>>>>> Move between screens
     tools:showIn="@layout/activity_items">
 
     <TextView style="?android:attr/listSeparatorTextViewStyle"
@@ -27,6 +31,10 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/current_day"
         android:paddingTop="20dp"
+<<<<<<< HEAD
         android:paddingLeft="20dp" />
+=======
+        android:paddingLeft="20dp"/>
+>>>>>>> Move between screens
 
 </RelativeLayout>
