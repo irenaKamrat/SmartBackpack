@@ -7,7 +7,11 @@
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
 <<<<<<< HEAD
+<<<<<<< HEAD
     tools:openDrawer="start">
+=======
+    tools:context="com.smartbp.view.MainActivity">
+>>>>>>> Move between screens
 =======
     tools:context="com.smartbp.view.MainActivity">
 >>>>>>> Move between screens

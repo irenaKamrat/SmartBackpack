@@ -6,7 +6,12 @@
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
 <<<<<<< HEAD
+<<<<<<< HEAD
     tools:context="com.irenakamrat.smartbackpack.ItemsActivity">
+=======
+    android:descendantFocusability="blocksDescendants"
+    tools:context="com.smartbp.view.ItemsActivity">
+>>>>>>> Move between screens
 =======
     android:descendantFocusability="blocksDescendants"
     tools:context="com.smartbp.view.ItemsActivity">

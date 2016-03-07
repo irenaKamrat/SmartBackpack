@@ -9,6 +9,10 @@ import android.view.View;
 import android.widget.ListView;
 import android.widget.TextView;
 
+<<<<<<< HEAD
+=======
+import com.irenakamrat.view.R;
+>>>>>>> Move between screens
 
 import java.util.HashMap;
 import java.util.Map;

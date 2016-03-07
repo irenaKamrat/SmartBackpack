@@ -1,7 +1,10 @@
 <resources>
     <string name="app_name">Smart BackPack</string>
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+>>>>>>> Move between screens
 =======
 >>>>>>> Move between screens
     <string name="navigation_drawer_open">Open navigation drawer</string>

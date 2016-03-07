@@ -5,7 +5,11 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
+<<<<<<< HEAD
         applicationId "com.smartbp"
+=======
+        applicationId "com.irenakamrat.smartbackpack"
+>>>>>>> Move between screens
         minSdkVersion 19
         targetSdkVersion 23
         versionCode 1

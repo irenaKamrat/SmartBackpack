@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.smartbp.view">
+=======
+    package="com.irenakamrat.view">
+>>>>>>> Move between screens
 
 
     <uses-permission android:name="android.permission.INTERNET" />
@@ -14,8 +18,14 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <activity
             android:name=".MainActivity"
+=======
+
+        <activity
+            android:name="com.smartbp.view.MainActivity"
+>>>>>>> Move between screens
 =======
 
         <activity
@@ -29,6 +39,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<<<<<<< HEAD
 <<<<<<< HEAD
         <activity
             android:name=".ItemsActivity"
@@ -48,6 +59,8 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.irenakamrat.smartbackpack.MainActivity" />
 =======
+=======
+>>>>>>> Move between screens
 
         <activity
             android:name="com.smartbp.view.ItemsActivity"
@@ -57,6 +70,9 @@
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.smartbp.view.MainActivity" />
+<<<<<<< HEAD
+>>>>>>> Move between screens
+=======
 >>>>>>> Move between screens
         </activity>
     </application>

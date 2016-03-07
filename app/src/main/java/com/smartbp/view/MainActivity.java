@@ -18,6 +18,10 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+<<<<<<< HEAD
+=======
+import com.irenakamrat.view.R;
+>>>>>>> Move between screens
 import com.smartbp.edison.connector.EidsonClient;
 
 public class MainActivity extends AppCompatActivity

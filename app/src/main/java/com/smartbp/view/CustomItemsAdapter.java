@@ -8,6 +8,10 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.TextView;
 
+<<<<<<< HEAD
+=======
+import com.irenakamrat.view.R;
+>>>>>>> Move between screens
 
 /**
  * Created by ikamrat on 07/03/2016.
