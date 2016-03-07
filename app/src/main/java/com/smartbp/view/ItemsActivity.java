@@ -9,7 +9,6 @@ import android.view.View;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import com.irenakamrat.view.R;
 
 import java.util.HashMap;
 import java.util.Map;

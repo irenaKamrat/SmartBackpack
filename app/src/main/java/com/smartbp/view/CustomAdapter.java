@@ -8,7 +8,6 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.TextView;
 
-import com.irenakamrat.view.R;
 
 /**
  * Created by ikamrat on 06/03/2016.

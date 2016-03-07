@@ -18,7 +18,6 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.irenakamrat.view.R;
 import com.smartbp.edison.connector.EidsonClient;
 
 public class MainActivity extends AppCompatActivity
